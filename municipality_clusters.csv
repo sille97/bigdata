@@ -1,0 +1,61 @@
+brick_id,brick_name,cluster
+106,Glostrup,0
+116,Tåstrup,0
+302,Nyborg,0
+306,Middelfart,0
+205,Ringsted,0
+207,Vordingborg,0
+208,Falster,0
+203,Kalundborg,0
+209,Lolland,0
+301,Svendborg,0
+505,Fjerritslev,0
+408,Holstebro,0
+407,Ringkøbing,0
+314,Varde,0
+310,Ribe,0
+308,Aabenraa,0
+503,Hobro,0
+504,Thisted,0
+202,Roskilde,1
+201,Køge Bugt,1
+502,Aalborg City,1
+501,Hadsund,1
+405,Silkeborg,1
+406,Herning,1
+305,Odense City,1
+304,Ydre Odense,1
+115,Ballerup,1
+113,Helsingør,1
+111,Hillerød,1
+114,Frederikssund,1
+112,Hørsholm,1
+303,Assens,1
+506,Nørresundby,1
+411,Randers,1
+402,Horsens,1
+312,Kolding,1
+412,Ebeltoft,1
+401,Hedensted,1
+403,Århus City,2
+404,Ydre Århus,2
+103,Nørrebro/City,2
+108,Kbh. Ø.,2
+105,Frederiksberg,2
+102,Amager,2
+109,Gentofte,2
+104,Vesterbro/Christianshavn,2
+110,Kgs. Lyngby,2
+107,Kbh. NV,2
+307,Sønderborg,3
+206,Næstved,3
+204,Slagelse,3
+101,Bornholm,3
+311,Haderslev,3
+309,Tønder,3
+313,Esbjerg,3
+315,Vejle,3
+410,Viborg,3
+409,Skive,3
+507,Hjørring,3
+508,Frederikshavn,3
