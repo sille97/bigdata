@@ -1,26 +1,26 @@
 brick_nr;brick;Andel
 101;Bornholm;0,1755
 102;Amager;0,13033333333333333
-103;Nørrebro/City;0,1075
+103;Noerrebro/City;0,1075
 104;Vesterbro/Christianshavn;0,1
 105;Frederiksberg;0,104
 106;Glostrup;0,184
 107;Kbh. NV;0,1065
-108;Kbh. Ø.;0,0965
+108;Kbh. Oe.;0,0965
 109;Gentofte;0,11066666666666668
 110;Kgs. Lyngby;0,0945
-111;Hillerød;0,123
-112;Hørsholm;0,1325714285714286
-113;Helsingør;0,1692
+111;Hilleroed;0,123
+112;Hoersholm;0,1325714285714286
+113;Helsingoer;0,1692
 114;Frederikssund;0,174
 115;Ballerup;0,1728333333333333
-116;Tåstrup;0,18575
-201;Køge Bugt;0,17842857142857144
+116;Taastrup;0,18575
+201;Koege Bugt;0,17842857142857144
 202;Roskilde;0,18745454545454543
 203;Kalundborg;0,215
 204;Slagelse;0,217
 205;Ringsted;0,20822222222222223
-206;Næstved;0,22728571428571429
+206;Naestved;0,22728571428571429
 207;Vordingborg;0,23114285714285712
 208;Falster;0,22499999999999998
 209;Lolland;0,22925
@@ -30,9 +30,9 @@ brick_nr;brick;Andel
 304;Ydre Odense;0,162
 305;Odense City;0,16
 306;Middelfart;0,215
-307;Sønderborg;0,199
+307;Soenderborg;0,199
 308;Aabenraa;0,20633333333333334
-309;Tønder;0,2165
+309;Toender;0,2165
 310;Ribe;0,20857142857142857
 311;Haderslev;0,1955
 312;Kolding;0,179
@@ -41,11 +41,11 @@ brick_nr;brick;Andel
 315;Vejle;0,18399999999999997
 401;Hedensted;0,179
 402;Horsens;0,15814285714285714
-403;Århus City;0,11
-404;Ydre Århus;0,11
+403;Aarhus City;0,11
+404;Ydre Aarhus;0,11
 405;Silkeborg;0,16392857142857142
 406;Herning;0,18759999999999996
-407;Ringkøbing;0,1968333333333333
+407;Ringkoebing;0,1968333333333333
 408;Holstebro;0,19628571428571426
 409;Skive;0,206
 410;Viborg;0,19875000000000004
@@ -56,6 +56,6 @@ brick_nr;brick;Andel
 503;Hobro;0,21275
 504;Thisted;0,19566666666666666
 505;Fjerritslev;0,20675
-506;Nørresundby;0,1928
-507;Hjørring;0,20375
+506;Noerresundby;0,1928
+507;Hjoerring;0,20375
 508;Frederikshavn;0,21000000000000002
